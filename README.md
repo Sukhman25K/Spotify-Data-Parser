@@ -36,4 +36,4 @@ You can go ahead and run the application when it's finished and store it in your
 python Spotify-Data-Parser.py
 ```
 
-Another way to run the application would be by using an IDLE such as Python's default IDLE or a code editor such as VS code. When the file explorer window shows up after running the script, navigate to where your Spotify data is held and select any files named ```StreamingHistory0.json``` or similarly numbered files, such as ```StreamingHistory1.json```, ```StreamingHistory2.json```, etc.
+Another way to run the application would be by using an IDLE such as Python's default IDLE or a code editor such as VS code. When the file explorer window shows up after running the script, navigate to where your Spotify data is held and select any files named ```StreamingHistory0.json``` or similarly numbered files, such as ```StreamingHistory1.json```, ```StreamingHistory2.json```, etc
