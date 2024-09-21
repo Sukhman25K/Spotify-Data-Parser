@@ -1,5 +1,5 @@
 # About The Project
-<img src="https://github.com/Sukhman25K/Spotify-Data-Parser/blob/main/HomeScreen.png?raw=true" alt="Spotify's logo">
+<img src="https://github.com/Sukhman25K/Spotify-Data-Parser/blob/main/Spotify logo.png?raw=true" alt="Spotify's logo">
 
 As a music enthusiast, I've always been fascinated by Spotify's end-of-year Wrapped feature. To delve deeper into my music preferences, I developed a Python script that parses ```JSON``` files containing my Spotify data, which I obtained directly sourced from Spotify's records.
 
